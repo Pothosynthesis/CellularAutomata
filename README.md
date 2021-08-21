@@ -1,2 +1,2 @@
 # CellularAutomata
-E
+Type go to start it
